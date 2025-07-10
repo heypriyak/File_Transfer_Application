@@ -43,3 +43,6 @@ This project is a file-sharing web application built with the MERN stack (MongoD
 
 - Files are only accessible within the same local network.
 - For development, run both frontend and backend servers simultaneously.
+
+Output:-
+<img width="1874" height="862" alt="image" src="https://github.com/user-attachments/assets/6a5703f3-8949-4ff6-99a5-9c34e96d1d21" />
